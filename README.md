@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel 
 
 **Systems Engineering student at Universidad Central del Ecuador**  
-Web development · Computer vision · Machine learning
+Web development 
 
 </div>
 
