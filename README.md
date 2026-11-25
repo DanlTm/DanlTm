@@ -29,7 +29,7 @@ Web development
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-000000?style=for-the-badge" />
+  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
 
 ---
@@ -48,5 +48,8 @@ Web development
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-tumbaco-54a9273b3/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dtumbaco256@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
