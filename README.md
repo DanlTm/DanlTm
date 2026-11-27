@@ -38,7 +38,7 @@ Web development
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanlTm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="DanlTm's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanlTm&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanlTm&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;cache_seconds=21600" alt="Most used languages" />
 </div>
 
 ---
